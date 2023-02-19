@@ -1,0 +1,4 @@
+<beans>
+    <bean id="main" path="com.laanaoui.Main"/>
+    <bean id="config" path="com.laanaoui.context.annotation.AnnotationConfigContext"/>
+</beans>
